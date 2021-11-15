@@ -1,0 +1,19 @@
+{
+    "require": {
+        "almasaeed2010/adminlte": "2.3.11",        
+        "components/jquery": "3.3.1",
+        "twbs/bootstrap": "4.0.0",
+        "snapappointments/bootstrap-select": ">=1.13",
+        "components/flag-icon-css": ">=1.0",
+        "components/font-awesome": "4.7.0",
+        "slim/slim":"2.0",
+        "rain/raintpl":"3.0.0",
+        "phpmailer/phpmailer": "^6.5"
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Percolore\\":"vendor/Percolore/php-classes/src"
+        }
+    }
+}
